@@ -1,6 +1,7 @@
 ### Hello I'm Sooooon 😀
 
-https://user-images.githubusercontent.com/31875043/101166276-5b906880-367b-11eb-9502-bb9b14196250.JPG
+### [20.12.04] Get a Problem Solving Gold badge from HackRank !!!! oh my god ~~~~
+<img width="300" src="https://user-images.githubusercontent.com/31875043/101166276-5b906880-367b-11eb-9502-bb9b14196250.JPG" >
 
 
 
