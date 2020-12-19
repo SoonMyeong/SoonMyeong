@@ -8,6 +8,7 @@
 
 ### [20.12.13] Get a 30 days of Code Gold badge from HackRank
 
+--
 
 <!--
 **SoonMyeong/SoonMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
