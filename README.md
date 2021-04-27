@@ -6,7 +6,7 @@
 - 모를 수 있다. 자신감을 가지자
  
 ### 🔭 현재 업무 중 쓰고 기술 스택
-![RedHat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=falt-square&logo=Red%20Hat&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=falt-square&logo=java&logoColor=white)  ![Springboot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=falt-square&logo=spring&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=falt-square&logo=RabbitMQ&logoColor=white) ![ElasticStack](https://img.shields.io/badge/-Elastic%20Stack-005571?style=falt-square&logo=elastic%20Stack&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=falt-square&logo=Jenkins&logoColor=white)
+![RedHat](https://img.shields.io/badge/-Red%20Hat%207.6-EE0000?style=falt-square&logo=Red%20Hat&logoColor=white) ![Java](https://img.shields.io/badge/-Java%201.8-007396?style=falt-square&logo=java&logoColor=white)  ![Springboot](https://img.shields.io/badge/-SpringBoot%202.4.3-6DB33F?style=falt-square&logo=spring&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ%203.8.1-FF6600?style=falt-square&logo=RabbitMQ&logoColor=white) ![ElasticStack](https://img.shields.io/badge/-Elastic%20Stack%207.6.1-005571?style=falt-square&logo=elastic%20Stack&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins%202.277.1-D24939?style=falt-square&logo=Jenkins&logoColor=white)
 
 ### 🌱 살아남기 위해 알아둬야 하는 기술 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=falt-square&logo=hibernate&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=falt-square&logo=Docker&logoColor=white) 
