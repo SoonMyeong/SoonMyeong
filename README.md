@@ -4,9 +4,7 @@
 
 ### [20.12.04] Get a Problem Solving Gold badge from HackRank
 
-<img width="300" src="https://user-images.githubusercontent.com/31875043/102013874-292aed80-3d96-11eb-9d07-b6f9f3d43999.JPG">
 
-### [20.12.13] Get a 30 days of Code Gold badge from HackRank
 
 --
 
