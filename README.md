@@ -14,7 +14,10 @@
 
 
 ### 년도 별 이력 💬
-(정리 후 업데이트)
+
+[2021~] E-navigation MCP (MMS) 고도화 연구과제 업무 (리팩토링, 기능추가 기존 Monolithic 구조 -> MSA Architecture 변경 및 운영)
+[2020] E-navigation MCP 운영시스템 구축
+[2019] E-navigation MCC 연구과제 업무 (추가 개발 및 운영 업무)
 
 
 
