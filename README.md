@@ -18,8 +18,9 @@
 - [2021] E-navigation MCP(MMS) 고도화 연구과제 업무
   - 고도화 작업에 따른 코드 및 구조 리팩토링 (Used Spring Webflux, MSA 로 구조 변경)   
     - 도메인 별 프로젝트 분리
-    - Eureka, Zipkin & Slueth 추가    
-    - Webflux 사용에 따른 Reactor RabbitMQ 이용    
+    - Eureka, Zipkin & Slueth 도입    
+    - Webflux 사용에 따른 Reactor RabbitMQ 이용
+    - JaCoCo 도입
 ###    
 - [2021] 주행로 예약 시스템 개발 업무 (WEB & RESTful API gateway) [ING]
   - 예약 시스템 WEB
