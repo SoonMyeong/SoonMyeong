@@ -32,7 +32,8 @@
 ###
 - [2020] E-navigation MCP 개발 및 운영시스템 구축 
    - E-navigation MCP(MMS) 과제 인수 및 Distributed MMS 로의 기능 추가 개발 (Used Netty)
-   - E-navigation MCP(MMS,MCC,MIR) 운영시스템 구축
+   - E-navigation MCP(HM) RESTful API 개발 (Used Spring MVC)
+   - E-navigation MCP(MMS,MCM,HM,MCC,MIR) 운영시스템 구축
    - Logging System (ELK Stack) 설정 및 설치
       - ElasticSearch Clustering
       - LogStash Time 작업
@@ -42,7 +43,8 @@
    - 지속적인 요구사항에 따른 추가 기능 개발 및 전체 통합 테스트 및 트러블슈팅 
 ###   
 - [2019] E-navigation MCC 연구 과제 업무 
-  - 지속적인 요구사항에 따른 추가 기능 개발 (RTI DDS 관련 Topic 개발) 
+  - 지속적인 요구사항에 따른 추가 기능 개발 (Used Spring MVC, RTI DDS) 
+    - RTI DDS 관련 Topic 개발, 비즈니스 로직 수정 
   - Jnuit 을 활용한 프로젝트 부하 테스트(분당 최소 10,000건)
 ###
 - [2018] KH 정보교육원 수료 
