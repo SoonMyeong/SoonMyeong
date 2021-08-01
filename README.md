@@ -15,19 +15,17 @@
 
 ### 년도 별 이력 💬
 
+- [2021] 주행로 예약 시스템 개발 업무 (WEB & RESTful API gateway) [ING]    
+  - 웹서버<->차량용 리더기 간 연결 담당 하는 HTTP API 개발
+    - Spring MVC + Netty 사용   
+
+###
 - [2021] E-navigation MCP(MMS) 고도화 연구과제 업무
   - 고도화 작업에 따른 코드 및 구조 리팩토링 (Used Spring Webflux, MSA 로 구조 변경)   
     - 도메인 별 프로젝트 분리
     - Eureka, Zipkin & Slueth 도입    
     - Webflux 사용에 따른 Reactor RabbitMQ 이용
-    - JaCoCo 도입
-###    
-- [2021] 주행로 예약 시스템 개발 업무 (WEB & RESTful API gateway) [ING]
-  - 예약 시스템 WEB 개발
-    - 사용자 로그인 구현 (Used Spring Security)       
-  - 웹서버<->차량용 리더기 간 연결 담당 하는 RESTful API 개발
-    - Spring MVC + Netty 사용   
-  
+    - JaCoCo 도입    
   
 ###
 - [2020] E-navigation MCP 개발 및 운영시스템 구축 
