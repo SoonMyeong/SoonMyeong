@@ -16,7 +16,7 @@
 ### 년도 별 이력 💬
 
 - [2021] 주행로 예약 시스템 개발 업무 (WEB & HTTP API gateway) [진행중]    
-  - 웹서버<->차량용 리더기 간 연결 담당 하는 HTTP API 개발
+  - 웹서버<->차량용 리더기 간 제어 담당 하는 HTTP API 개발
     - Spring MVC + Netty 사용   
 
 ###
