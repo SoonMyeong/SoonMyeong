@@ -4,6 +4,7 @@
 - 항상 겸손하자.
 - 모를 수 있다. 자신감을 가지자.
 - 동료의 실력 상승에도 항상 관심을 두도록 노력하자. (동료 개발자의 실력 상승은 나의 실력 상승과도 같다!)
+- 할땐 하고 쉴땐 쉬자.
  
 ### 🔭 현재 업무 중 쓰고 기술 스택
 ![RedHat](https://img.shields.io/badge/-Red%20Hat%207.6-EE0000?style=falt-square&logo=Red%20Hat&logoColor=white) ![Java](https://img.shields.io/badge/-Java%201.8-007396?style=falt-square&logo=java&logoColor=white)  ![Springboot](https://img.shields.io/badge/-SpringBoot%202.4.3-6DB33F?style=falt-square&logo=spring&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ%203.8.1-FF6600?style=falt-square&logo=RabbitMQ&logoColor=white) ![ElasticStack](https://img.shields.io/badge/-Elastic%20Stack%207.6.1-005571?style=falt-square&logo=elastic%20Stack&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis%203.2.100-DC382D?style=falt-square&logo=Redis&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins%202.277.1-D24939?style=falt-square&logo=Jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB%2010.5-003545?style=falt-square&logo=MariaDB&logoColor=white)
