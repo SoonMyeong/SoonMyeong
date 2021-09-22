@@ -14,40 +14,6 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=falt-square&logo=google%20cloud&logoColor=white)
 
 
-### 년도 별 이력 💬
-
-- [2021] 주행로 예약 시스템 개발 업무 (WEB & HTTP API gateway) [진행중]    
-  - 웹서버<->차량용 리더기 간 제어 담당 하는 HTTP API 개발
-    - Spring MVC + Netty 사용   
-
-###
-- [2021] E-navigation MCP(MMS) 고도화 연구과제 업무
-  - 고도화 작업에 따른 코드 및 구조 리팩토링 (Used Spring Webflux, MSA 로 구조 변경)   
-    - 도메인 별 프로젝트 분리
-    - Eureka, Zipkin & Slueth 도입    
-    - Webflux 사용에 따른 Reactor RabbitMQ 이용
-    - JaCoCo 도입    
-  
-###
-- [2020] E-navigation MCP 개발 및 운영시스템 구축 
-   - E-navigation MCP(MMS) 과제 인수 및 Distributed MMS 로의 기능 추가 개발 (Used Netty)
-   - E-navigation MCP(HM) RESTful API 개발 (Used Spring MVC)
-   - E-navigation MCP(MMS,MCM,HM,MCC,MIR) 운영시스템 구축
-   - Logging System (ELK Stack) 설정 및 설치
-      - ElasticSearch Clustering
-      - LogStash Time 작업
-   - RabbitMQ Clustering
-   - Redis Sentinel 작업
-   - Nginx Proxy 설정   
-   - 지속적인 요구사항에 따른 추가 기능 개발 및 전체 통합 테스트 및 트러블슈팅 
-###   
-- [2019] E-navigation MCC 연구 과제 업무 
-  - 지속적인 요구사항에 따른 추가 기능 개발 (Used Spring MVC, RTI DDS) 
-    - RTI DDS 관련 Topic 개발, 비즈니스 로직 수정 
-  - Jmeter 을 활용한 프로젝트 부하 테스트(분당 최소 10,000건)
-###
-- [2018] KH 정보교육원 수료 
-
 ### 현재 참여중인 개인 활동 👯
 - JPA 스터디 (21.06.10 ~ 21.08.12 )
 - 이팩티브 자바 스터디(21.08.19~ )
