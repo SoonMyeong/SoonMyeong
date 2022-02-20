@@ -1,11 +1,7 @@
 # SOON 😄
 - 다른 사람의 말에 귀 기울이자. 대화의 기본은 경청!
 - 기본에 충실 하도록 노력하자.
-- 항상 겸손하자.
-- 모를 수 있다. 자신감을 가지자.
-- 동료의 실력 상승에도 항상 관심을 두도록 노력하자. (동료 개발자의 실력 상승은 나의 실력 상승과도 같다!)
-- 할땐 하고 쉴땐 쉬자.
- 
+- 책 많이 읽자... 
 
 ### 🌱 관심 있는 기술 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=falt-square&logo=hibernate&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=falt-square&logo=Docker&logoColor=white) 
