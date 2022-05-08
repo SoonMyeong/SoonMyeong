@@ -10,8 +10,8 @@
 
 ### 2022년
 - 객체지향의 사실과 오해
-- Real-World Software Development (앞부분은 좋은데...아..)
-- 데이터중심 애플리케이션 설계 (ING)
+- Real-World Software Development 
+- 데이터중심 애플리케이션 설계
 
 
 <!--
