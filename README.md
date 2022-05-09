@@ -12,7 +12,7 @@
 - 객체지향의 사실과 오해
 - Real-World Software Development 
 - 데이터중심 애플리케이션 설계
-
+- 도메인 주도 개발 시작하기 (ING)
 
 <!--
 **SoonMyeong/SoonMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
