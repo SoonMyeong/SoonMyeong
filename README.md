@@ -12,6 +12,7 @@
 - 객체지향의 사실과 오해
 - Real-World Software Development 
 - 데이터중심 애플리케이션 설계
+- TDD, Clean Code with Java 14기
 - 도메인 주도 개발 시작하기 (ING)
 
 <!--
