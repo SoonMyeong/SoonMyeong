@@ -3,9 +3,10 @@
 - 기본에 충실 하도록 노력하자.
 - 책 많이 읽자... 
 
-### 🌱 관심 있는 기술 
+### 🌱 Attention
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=falt-square&logo=hibernate&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=falt-square&logo=Docker&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=falt-square&logo=google%20cloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=falt-square&logo=Amazon%20AWS&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=falt-square&logo=MySQL&logoColor=white)
 
 
 ### 2022년
