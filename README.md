@@ -15,7 +15,8 @@
 - 데이터중심 애플리케이션 설계
 - TDD, Clean Code with Java 14기
 - 도메인 주도 개발 시작하기
-- 기초부터 다지는 ElasticSearch 운영 노하우(ING)
+- 기초부터 다지는 ElasticSearch 운영 노하우
+- 엘라스틱 스택 개발부터 운영까지 (ING)
 - The Clean Coder (ING)
 
 <!--
