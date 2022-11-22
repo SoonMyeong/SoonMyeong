@@ -19,6 +19,7 @@ Kafka
 - 기초부터 다지는 ElasticSearch 운영 노하우
 - 엘라스틱 스택 개발부터 운영까지 (ING)
 - The Clean Coder (ING)
+- 실전 카프카 개발부터 운영까지 (ING)
 
 <!--
 **SoonMyeong/SoonMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
