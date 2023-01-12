@@ -18,8 +18,11 @@ Kafka
 - 도메인 주도 개발 시작하기
 - 기초부터 다지는 ElasticSearch 운영 노하우
 - 엘라스틱 스택 개발부터 운영까지 (ING)
-- The Clean Coder (ING)
-- 실전 카프카 개발부터 운영까지 (ING)
+- The Clean Coder (HOLD.. 심심할때 읽어야지.. 자기개발서 느낌)
+- 실전 카프카 개발부터 운영까지 (기본 개념인 챕터만)
+
+### 2023년
+- 카프카 스트림즈와 ksqlDB 정복 (ING)
 
 <!--
 **SoonMyeong/SoonMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
