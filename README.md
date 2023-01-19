@@ -7,7 +7,8 @@
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=falt-square&logo=Amazon%20AWS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=falt-square&logo=MySQL&logoColor=white)
 ElasticSearch , 
-Kafka
+Kafka,
+Kotlin..
 
 
 ### 2022년
