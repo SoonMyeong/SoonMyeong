@@ -23,7 +23,8 @@ Kotlin..
 - 실전 카프카 개발부터 운영까지 (기본 개념인 챕터만)
 
 ### 2023년
-- 카프카 스트림즈와 ksqlDB 정복 (ING)
+- 카프카 스트림즈와 ksqlDB 정복 (ING...)
+- Kotlin In Action (ING...)
 
 <!--
 **SoonMyeong/SoonMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
