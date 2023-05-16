@@ -1,14 +1,7 @@
 # SOON 😄
 - 다른 사람의 말에 귀 기울이자. 대화의 기본은 경청!
 - 기본에 충실 하도록 노력하자.
-- 책 많이 읽자... 
-
-### 🌱 Attention
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=falt-square&logo=Amazon%20AWS&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=falt-square&logo=MySQL&logoColor=white)
-ElasticSearch , 
-Kafka,
-Kotlin..
+- 책 많이 읽기
 
 
 <!--
